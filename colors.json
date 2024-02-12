@@ -1,0 +1,18 @@
+{
+    "primary": "#405EF5",
+    "secondary": "#3E3E3E",
+    "light": "white",
+    "dark": "black",
+    "darkBackground": "#07002F",
+    "lightBackground": "#C0D2F5",
+    "background": "#FEFEF3",
+    "shadow": "#FEFEF3",
+    "darkText": "#07002F",
+    "lightText": "#FEFEF3",
+    "red": "#FF4D4D",
+    "valid": "#2ECC71",
+    "invalid": "#BC2908",
+    "warning": "#EDAE49",
+    "whiteTransparency": "rgba(255, 255, 255, 0.5)",
+    "placeholder": "#E0E0E0"
+}
