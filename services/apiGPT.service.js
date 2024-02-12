@@ -1,6 +1,6 @@
 import ax from 'axios';
 
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "*****";
 const OPENAI_API_BASE_URL = "https://api.openai.com/v1/completions";
 
 let axios = ax.create({
